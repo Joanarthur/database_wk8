@@ -2,7 +2,7 @@
 
 A comprehensive relational database system for managing library operations including books, members, loans, reservations, and fines.
 
-### __Prerequisites__
+## __Prerequisites__
 
 Before running this project, ensure you have the following installed:
 
@@ -12,7 +12,7 @@ MySQL Command Line Client or MySQL Workbench
 
 Appropriate permissions to create databases and tables
 
-### __Database Structure__
+## __Database Structure__
 
 The system includes the following tables:
 
