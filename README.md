@@ -1,8 +1,8 @@
-#__Library Management System Database__#
+__Library Management System Database__
 
 A comprehensive relational database system for managing library operations including books, members, loans, reservations, and fines.
 
-#__Prerequisites__#
+__Prerequisites__
 
 Before running this project, ensure you have the following installed:
 
@@ -12,24 +12,24 @@ MySQL Command Line Client or MySQL Workbench
 
 Appropriate permissions to create databases and tables
 
-#__Database Structure__#
+__Database Structure__
 
 The system includes the following tables:
 
-publishers - Book publisher information
+-publishers - Book publisher information
 
-authors - Author details
+-authors - Author details
 
-books - Main book inventory
+-books - Main book inventory
 
-book_authors - Junction table for book-author relationships
+-book_authors - Junction table for book-author relationships
 
-members - Library member information
+-members - Library member information
 
-loans - Book lending records
+-loans - Book lending records
 
-reservations - Book reservation system
+- reservations - Book reservation system
 
-fines - Fine management for overdue books
+- fines - Fine management for overdue books
 
-staff - Library staff information
+- staff - Library staff information
