@@ -1,8 +1,8 @@
-Library Management System Database
+#__Library Management System Database__
 
 A comprehensive relational database system for managing library operations including books, members, loans, reservations, and fines.
 
-Prerequisites
+#__Prerequisites__
 Before running this project, ensure you have the following installed:
 
 MySQL Server (version 8.0 or higher recommended)
@@ -11,7 +11,7 @@ MySQL Command Line Client or MySQL Workbench
 
 Appropriate permissions to create databases and tables
 
-Database Structure
+#__Database Structure__
 The system includes the following tables:
 
 publishers - Book publisher information
